@@ -1,6 +1,6 @@
 # Hurricane Analysis
 
-The main purpose of this project is for me to learn and practice writing Python's functions, using loop and dictionary.
+The main purpose of this project is for me to learn and practice writing Python's functions, manipulating string, as well as using conditionals, lists, and dictionaries.
 
 In this project, 9 different functions will be written to organize and manipulate data about **Category 5 Hurricanes**, the strongest hurricanes as rated by their wind speed. 
 
